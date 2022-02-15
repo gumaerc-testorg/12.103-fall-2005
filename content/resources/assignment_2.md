@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains 3 questions based on Examining the Science.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-103-strange-bedfellows-science-and-environmental-policy-fall-2005/c992cd5089de357c53c65f480e7723ff_assignment_2.pdf
+file: /media/courses/12-103-strange-bedfellows-science-and-environmental-policy-fall-2005/c992cd5089de357c53c65f480e7723ff_assignment_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assignment_2.pdf
 uid: c992cd50-89de-357c-53c6-5f480e7723ff
