@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 64115dfb-f78f-a0ad-394e-0ecf4a1976e3
 resourcetype: Document
 title: ddt_presentation.pdf
 uid: 41d39122-e7f5-a759-36cc-da95192e14b2

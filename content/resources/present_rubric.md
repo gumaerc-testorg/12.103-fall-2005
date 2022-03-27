@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 64115dfb-f78f-a0ad-394e-0ecf4a1976e3
 resourcetype: Document
 title: present_rubric.pdf
 uid: 85b0e8a5-306a-f3f9-7b77-39b0c2b7bd1f

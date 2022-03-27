@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 665dc9c0-29d5-b9f2-2c50-cbc47320457d
 resourcetype: Document
 title: papers_general.pdf
 uid: 499a599f-9d11-2500-2e30-68f702102996

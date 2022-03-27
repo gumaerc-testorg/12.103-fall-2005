@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 665dc9c0-29d5-b9f2-2c50-cbc47320457d
 resourcetype: Document
 title: present_general.pdf
 uid: 641e7c98-206b-1bdf-ca06-5ea1a45b66bf
