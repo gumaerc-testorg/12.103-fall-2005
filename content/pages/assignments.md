@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Assignments section contains group presentation and essays given by students.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 64115dfb-f78f-a0ad-394e-0ecf4a1976e3
 ---
@@ -29,10 +33,10 @@ SAMPLE STUDENT WORK
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment_1))
+Assignment 1 ({{% resource_link c61ff7cb-1bc7-63b5-3c97-cdaa2767f053 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Indiscriminately From the Skies ([PDF]({{< baseurl >}}/resources/12_103_paper1))
+Indiscriminately From the Skies ({{% resource_link 7c443bd6-c4be-311d-fa89-8b92dbe72dc3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,10 +45,10 @@ Indiscriminately From the Skies ([PDF]({{< baseurl >}}/resources/12_103_paper1))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 2 ([PDF]({{< baseurl >}}/resources/assignment_2))
+Assignment 2 ({{% resource_link c992cd50-89de-357c-53c6-5f480e7723ff "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-DDT as an Endocrine Disruptor in Human and Nonhuman Test Cases ([PDF]({{< baseurl >}}/resources/12_103_paper2))
+DDT as an Endocrine Disruptor in Human and Nonhuman Test Cases ({{% resource_link a02e55c9-df0a-d3fb-d389-00f68a9db5cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,10 +57,10 @@ DDT as an Endocrine Disruptor in Human and Nonhuman Test Cases ([PDF]({{< baseur
 Three Days after Lec #20
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 3 ([PDF]({{< baseurl >}}/resources/assignment_3))
+Assignment 3 ({{% resource_link 22f8f4ee-a243-a9a3-4763-52e8135532d1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Lives on the Line: DDT, Malaria, and Infant Mortality ([PDF]({{< baseurl >}}/resources/12_103_paper3))
+Lives on the Line: DDT, Malaria, and Infant Mortality ({{% resource_link 4c9c5cba-090f-11d8-2eb8-065fa41a6189 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,11 +72,11 @@ Lives on the Line: DDT, Malaria, and Infant Mortality ([PDF]({{< baseurl >}}/res
 Final Presentation
 {{< tdclose >}}
 {{< tdopen >}}
-DDT Presentation ([PDF]({{< baseurl >}}/resources/ddt_presentation)) (Courtesy of Emma Bassein and Cassandra Roth. Used with permission.)
+DDT Presentation ({{% resource_link 41d39122-e7f5-a759-36cc-da95192e14b2 "PDF" %}}) (Courtesy of Emma Bassein and Cassandra Roth. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-Grading Rubric for Presentations ([PDF]({{< baseurl >}}/resources/present_rubric))
+Grading Rubric for Presentations ({{% resource_link 85b0e8a5-306a-f3f9-7b77-39b0c2b7bd1f "PDF" %}})
