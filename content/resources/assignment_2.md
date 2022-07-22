@@ -5,6 +5,7 @@ file: /courses/12-103-strange-bedfellows-science-and-environmental-policy-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment_2.pdf
 uid: c992cd50-89de-357c-53c6-5f480e7723ff
 ---
 This resource contains 3 questions based on Examining the Science.
-

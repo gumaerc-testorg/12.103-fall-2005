@@ -6,6 +6,7 @@ file: /courses/12-103-strange-bedfellows-science-and-environmental-policy-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment_3.pdf
 uid: 22f8f4ee-a243-a9a3-4763-52e8135532d1
 ---
 This resource contains 6 questions based on the nature of uncertainty and risk.
-

@@ -5,6 +5,7 @@ file: /courses/12-103-strange-bedfellows-science-and-environmental-policy-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: present_rubric.pdf
 uid: 85b0e8a5-306a-f3f9-7b77-39b0c2b7bd1f
 ---
 This resource contains the instructions of presentations.
-
