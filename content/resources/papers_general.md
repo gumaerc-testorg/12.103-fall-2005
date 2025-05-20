@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains comments on papers submitted by students.
-file: /ol-ocw-studio-app/courses/12-103-strange-bedfellows-science-and-environmental-policy-fall-2005/499a599f9d1125002e3068f702102996_papers_general.pdf
+file: /courses/12-103-strange-bedfellows-science-and-environmental-policy-fall-2005/499a599f9d1125002e3068f702102996_papers_general.pdf
 file_size: 141710
 file_type: application/pdf
 learning_resource_types: []
